@@ -1,7 +1,5 @@
 # roadmap.sh
-for roadmap.sh website for learning computer things
+for things from [roadmap.sh](https://roadmap.sh/)
 
 ## project list
-
-Single page CV:
-https://roadmap.sh/projects/single-page-cv
+[Single-Page CV](https://roadmap.sh/projects/single-page-cv)
